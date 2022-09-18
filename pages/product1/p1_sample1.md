@@ -6,7 +6,7 @@ sidebar: product1_sidebar
 permalink: p1_sample1.html
 folder: product1
 ---
-
+<html><body>
                                                            
                                                     <h1>Error Logging in Prysm for Desktop</h1>
                                                     <p>Prysm for desktop includes error logging. You can open the logs to troubleshoot issues you might experience with the app.</p>
@@ -33,5 +33,7 @@ folder: product1
 			<ul><li>Information</li><li>Warning</li><li>Error</li><li>Trace</li><li>Fatal</li><li>All</li><li>Off</li></ul></li>
                                                                 <li value="4"><b>Save</b> and <b>close</b> the UserConfig.xml file.</li>
                                                             </ol>
+
+</body></html>
                                                         
 {% include links.html %}    
