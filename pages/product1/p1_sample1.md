@@ -1,7 +1,7 @@
 ---
 title: Sample 1 Topic (Product 1)
 keywords: sample
-summary: "This is just a sample topic..."
+
 sidebar: product1_sidebar
 permalink: p1_sample1.html
 folder: product1
@@ -12,8 +12,7 @@ folder: product1
                                                     <p>Prysm for desktop includes error logging. You can open the logs to troubleshoot issues you might experience with the app.</p>
                                                     <div class="Tip" data-mc-autonum="&lt;span style=&quot;color: #ff9933;&quot; class=&quot;mcFormatColor&quot;&gt;&lt;b&gt;Tip: &lt;/b&gt;&lt;/span&gt;"><span class="autonumber"><span><span style="color: #ff9933;" class="mcFormatColor"><b>Tip: </b></span></span></span> You can also contact Prysm support and share your logs with them to get help with issues.</div>
                                                     <p>Both the main Prysm for desktop app and its companion Prysm Sharing Agent app include this error logging. The following sections include the details for both apps.</p>
-                                                    <div class="MCDropDown MCDropDown_Closed dropDown"><span class="MCDropDownHead dropDownHead"><a href="#" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage" aria-expanded="false"><img class="MCDropDown_Image_Icon" src="../../../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Opening Log Files</a></span>
-                                                        <div class="MCDropDownBody dropDownBody">
+                                                    <h2>Opening Log Files</h2>
                                                             <p>To open log files for troubleshooting, you locate and open the logs in the Logs folder:</p>
                                                             <ol>
                                                                 <li value="1">On the device where Prysm for desktop is installed, <b>navigate</b> to:<br /><code>C:\Users\&lt;Username&gt;\AppData\Local\Packages\<br />PrysmInc.Prysm_gcnfe4jvxweze\LocalState\logs</code><div class="Note" data-mc-autonum="&lt;span style=&quot;color: #000099;&quot; class=&quot;mcFormatColor&quot;&gt;&lt;b&gt;Note: &lt;/b&gt;&lt;/span&gt;"><span class="autonumber"><span><span style="color: #000099;" class="mcFormatColor"><b>Note: </b></span></span></span>If you want to open log files for Prysm Sharing Agent, on the device where it's installed, navigate to:<br /><br /><code>C:\Users\&lt;Username&gt;\AppData\Local\Packages\<br />PrysmInc.PrysmSharingExtension_gcnfe4jvxweze\LocalState\logs</code></div></li>
@@ -23,8 +22,7 @@ folder: product1
                                                             </ol>
                                                         </div>
                                                     </div>
-                                                    <div class="MCDropDown MCDropDown_Closed dropDown"><span class="MCDropDownHead dropDownHead"><a href="#" class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_ MCHotSpotImage" aria-expanded="false"><img class="MCDropDown_Image_Icon" src="../../../Skins/Default/Stylesheets/Images/transparent.gif" height="11" width="16" alt="Closed" data-mc-alt2="Open" />Configuring Logging</a></span>
-                                                        <div class="MCDropDownBody dropDownBody">
+                                                    <h2>Configuring Logging</h2>
                                                             <p>Prysm recommends using the preconfigured logging settings. If you find that those aren't working for you, you can locate and edit the configuration .xml file to change the configuration: </p>
                                                             <ol>
                                                                 <li value="1">On the device where Prysm for desktop is installed, <b>navigate</b> to:<br /><code>C:\Users\&lt;Username&gt;\AppData\Local\Packages\<br />PrysmInc.Prysm_gcnfe4jvxweze\LocalState\UserConfig.xml</code><br /><div class="Note" data-mc-autonum="&lt;span style=&quot;color: #000099;&quot; class=&quot;mcFormatColor&quot;&gt;&lt;b&gt;Note: &lt;/b&gt;&lt;/span&gt;"><span class="autonumber"><span><span style="color: #000099;" class="mcFormatColor"><b>Note: </b></span></span></span>If you're configuring logging for Prysm Sharing Agent, on the device where it's installed, navigate to:<br /><br /><code>C:\Users\&lt;Username&gt;\AppData\Local\Packages\<br />PrysmInc.PrysmSharingExtension_gcnfe4jvxweze\<br />LocalState\UserConfig.xml</code></div></li>
@@ -36,4 +34,4 @@ folder: product1
 
 </body></html>
                                                         
-{% include links.html %}    
+ 
