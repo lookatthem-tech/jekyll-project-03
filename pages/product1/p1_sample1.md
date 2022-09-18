@@ -1,6 +1,6 @@
 ---
-title: Sample 1 Topic (Product 1)
-keywords: sample
+title: Error Logging in Prysm for Desktop
+
 
 sidebar: product1_sidebar
 permalink: p1_sample1.html
@@ -8,7 +8,7 @@ folder: product1
 ---
 <html><body>
                                                            
-                                                    <h1>Error Logging in Prysm for Desktop</h1>
+                                                    
                                                     <p>Prysm for desktop includes error logging. You can open the logs to troubleshoot issues you might experience with the app.</p>
                                                     <div class="Tip" data-mc-autonum="&lt;span style=&quot;color: #ff9933;&quot; class=&quot;mcFormatColor&quot;&gt;&lt;b&gt;Tip: &lt;/b&gt;&lt;/span&gt;"><span class="autonumber"><span><span style="color: #ff9933;" class="mcFormatColor"><b>Tip: </b></span></span></span> You can also contact Prysm support and share your logs with them to get help with issues.</div>
                                                     <p>Both the main Prysm for desktop app and its companion Prysm Sharing Agent app include this error logging. The following sections include the details for both apps.</p>

@@ -1,13 +1,12 @@
 ---
-title: Sample 2 Topic (Product 1)
-keywords: sample
-summary: "This is just a sample topic..."
+title: SMS Integration with Twilio Marketplace
+
 sidebar: product1_sidebar
 permalink: p1_sample2.html
 folder: product1
 ---
 <html><body>  
-<h1>SMS Integration with Twilio Marketplace</h1>
+
 <p>The SMS Integration with Twilio provides the ability to configure Short Messaging Service (SMS) notifications within the <MadCap:conditionalText data-mc-conditions="UKGRConditionTags.WFR">UKG Ready</MadCap:conditionalText> application. When this integration is added and set up, SMS message configuration will be available in the following areas:</p>
 <ul>
 	<li>
