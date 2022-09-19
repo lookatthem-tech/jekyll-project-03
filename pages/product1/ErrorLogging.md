@@ -3,7 +3,7 @@ title: Error Logging in Prysm for Desktop
 
 
 sidebar: product1_sidebar
-permalink: p1_sample1.html
+permalink: ErrorLogging.html
 folder: product1
 ---
 <html><body>

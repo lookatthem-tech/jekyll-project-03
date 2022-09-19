@@ -5,7 +5,19 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: About me
+    output: web
+    folderitems:
+    
+    - title: Product 1
+      url: /DevDocsLanding.html
+      output: web
+    - title: Product 2
+      url: /p2_landing_page.html
+      output: web
+
+
+- title: API and developer docs
     output: web
     folderitems:
     
@@ -15,5 +27,32 @@ entries:
     - title: Product 2
       url: /p2_landing_page.html
       output: web
+
+
+
+- title: Software docs
+    output: web
+    folderitems:
+    
+    - title: Product 1
+      url: /p1_landing_page.html
+      output: web
+    - title: Product 2
+      url: /p2_landing_page.html
+      output: web
+
+
+- title: Videos
+    output: web
+    folderitems:
+    
+    - title: Product 1
+      url: /p1_landing_page.html
+      output: web
+    - title: Product 2
+      url: /p2_landing_page.html
+      output: web
+
+
 
 # Copyright 2021 Google LLC

@@ -1,7 +1,7 @@
 ---
 title: "Portfolio of documentation"
 keywords: sample homepage
-tags: [getting_started]
+
 sidebar: home_sidebar
 permalink: index.html
 summary: This is a portfolio created by Ryan Rader
