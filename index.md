@@ -1,8 +1,8 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "Portfolio of documentation"
 keywords: sample homepage
 tags: [getting_started]
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: index.html
 summary: This is a portfolio created by Ryan Rader
 ---
@@ -43,6 +43,11 @@ I have a similar portfolio site that I built with sphinx. I'll be happy to show 
 Also, here are certificates for a few of the API courses that I've completed.
 
 ADD IMAGES!!
+
+
+### LinkedIn profile
+
+See my profile [LINK HERE!!!!] on LinkedIn.
 
 
 {% include links.html %}
