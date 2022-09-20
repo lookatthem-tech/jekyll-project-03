@@ -7,7 +7,7 @@ permalink: index.html
 
 ---
 
-{% include note.html content="What should ryan say here???</a>." %}
+
 
 ## Welcome! This is a portfolio created by Ryan Rader
 
@@ -35,7 +35,11 @@ To further demonstrate my capabilities to work with modern developer doc tools, 
 
 ### Sphinx site example
 
-I have a similar portfolio site that I built with sphinx. I haven't hosted this site anywhere yet. But I'll be happy to show it to anyone who asks!
+I have a similar portfolio site that I built with sphinx to demonstrate what I can do with that tool.
+
+{% include note.html content="I haven't hosted this site anywhere yet. But I'll be happy to show it to anyone who asks!" %}
+
+
 
 
 ### API course certificates
