@@ -8,12 +8,7 @@
 h3 {color: #ED1951; }
 h4 {color: #808080; }
 
-div.search-demo-container
-{
-background-color: green;
-border-color: red;
 
-}
                         
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
@@ -45,9 +40,10 @@ a[data-toggle="tooltip"] {
     cursor: default;
 }
 
+
 .navbar-inverse {
-    background-color: #347DBE;
-    border-color: #015CAE;
+    background-color: #144b6f;
+    border-color: #144b6f;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
     color: white;
