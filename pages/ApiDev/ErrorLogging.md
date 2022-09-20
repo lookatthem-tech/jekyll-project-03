@@ -2,7 +2,7 @@
 title: Error Logging in Prysm for Desktop
 
 
-sidebar: product1_sidebar
+sidebar: developer_sidebar
 permalink: ErrorLogging.html
 folder: ApiDev
 ---
