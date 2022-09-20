@@ -2,8 +2,8 @@
 title: SMS Integration with Twilio Marketplace
 
 sidebar: product1_sidebar
-permalink: p1_sample2.html
-folder: product1
+permalink: SmsIntegration.html
+folder: ApiDev
 ---
 <html><body>  
 

@@ -7,17 +7,18 @@ entries:
 
   
   - title: API and developer docs
-    url: /DevDocsLanding.html
     output: web
     folderitems:
     
-    - title: Product 2
+    - title: Introduction to API and developer docs
       url: /DevDocsLanding.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: SMS Integration
+      url: /SmsIntegration.html
       output: web
-
+    - title: Error Logging
+      url: /ErrorLogging.html
+      output: web
 
 
   - title: Software docs
