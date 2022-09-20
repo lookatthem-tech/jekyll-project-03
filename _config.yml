@@ -100,11 +100,10 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
+- developer_sidebar
+- software_sidebar
+- videos_sidebar
+
 
 description: RR online docs in jekyll
 # the description is used in the feed.xml file
