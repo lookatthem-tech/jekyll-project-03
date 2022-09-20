@@ -14,7 +14,10 @@ folder: Videos
 <p>I made these videos to demonstrate some slightly longer procedures and features.</p>
 
 
-{% video file="VisuallyOrganizeSHContent.mp4" 500  %}
+{% video VisuallyOrganizeSHContent.mp4 500  %}
+
+
+{% video url/to/video [width height] [url/to/poster] %}
 
 
 {% include image.html file="VisuallyOrganizeSHContent.mp4"  max-width="500" %}
