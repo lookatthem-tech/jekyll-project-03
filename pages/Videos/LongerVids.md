@@ -51,3 +51,16 @@ folder: Videos
 <p><video title="" loop="loop" muted="" controls="controls" width="300" height="150">
 <source src="LocalBrowserDownloadFiles004.mp4" type="video/mp4" />Your browser does not support the video tag.
 </video></p>
+
+
+<p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/oan0sfqkn8" width="400" height="225"></iframe>
+</p>
+<p>&#160;</p>
+<p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/wrbqd6wyrt" width="400" height="225"></iframe>
+</p>
+<p>&#160;</p>
+<p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/327zz4bnub" width="400" height="225"></iframe>
+</p>
+<p>&#160;</p>
+<p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/doitcshtog" width="400" height="225"></iframe>
+</p>
