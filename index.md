@@ -4,7 +4,7 @@ keywords: sample homepage
 
 sidebar: home_sidebar
 permalink: index.html
-summary: This is a portfolio created by Ryan Rader
+
 ---
 
 {% include note.html content="What should ryan say here???</a>." %}
