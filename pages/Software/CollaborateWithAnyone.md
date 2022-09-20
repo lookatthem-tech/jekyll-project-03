@@ -20,9 +20,9 @@ folder: Software
 <p>Just go to Prysm for web (<a href="http://app.prysm.com/">app.prysm.com</a>) and create a free account. <a href="../Project/Projects.htm#CreatingProjects">Create a project</a>. (<strong>Projects</strong> are anything you want to organize, such as planning an event, or brainstorming about a new product.)</p>
 <p>Then, on Prysm's People panel, invite the people you want to join you for collaboration. Prysm sends them an email with a link that takes them directly into your Prysm <a href="../Project/Workspaces.html">workspace</a>, where you add <a href="../Tools/Sketchboards.html#OpeningSketchboards">sketches</a>, images, documents, <a href="../Files/WorkingWithProjectFiles.htm#AddingProjectFiles">files</a>, and other rich content. (<strong>Workspaces</strong> are places where you can store and visually organize your content.)</p>
 
-<p><img src="Collab001.png" style="width: 250px;" /></p>
 
-{% include image.html file="Collab001.png"  max-width="300" %}
+
+{% include image.html file="Collab001.png"  max-width="500" %}
 
 
 
@@ -37,15 +37,18 @@ folder: Software
 </ul>
 <p>All Prysm apps are touch-enabled (even on large video walls with Prysm for rooms) and as easy to use as your smart phone.</p>
 
-<p><img src="../../Resources/Images/Collab002.png" style="width: 250px;"/></p>
+
+{% include image.html file="Collab002.png"  max-width="500" %}
 
 <h2>Collaborate any time</h2>
 <p>Unlike traditional, meeting-only apps, your Prysm projects are "always on"&nbsp;and available to you and your collaborators. Content that you add to your project remains exactly as you left it, so that anyone can pick up where anyone else stopped and make progress any time.</p>
 
-<p><img src="Collab007.png" style="width: 250px;"/></p>
+
+{% include image.html file="Collab007.png"  max-width="500" %}
 
 <p>This helps you overcome time zone challenges &mdash; because when you collaborate with people across the globe, they are often not available to collaborate with you during your work day. With Prysm, your global colleagues can make progress toward your goals during their workday, and you can pick up where they left off during yours. It also smooths issues with your collaborators whose calendars are always fully booked. You can work in Prysm any time, and those busy folks can peek in on your progress in Prysm whenever they're able.</p>
 <p>Prysm also is the perfect solution for large-scale meetings and presentations, where everyone is actually meeting and collaborating at the SAME&nbsp;time! Gather a bunch of people in a conference room where you present via Prysm for rooms, while those across the globe, who can't physically join you in the conference room, have an immersive, interactive meeting experience with you via Prysm's other apps.</p>
 
-<p><img src="Collab003.png" style="width: 250px;"/></p>
+
+{% include image.html file="Collab003.png"  max-width="500" %}
 
