@@ -30,19 +30,21 @@ ADD IMAGE HERE
 
 ### Github site example
 
-To further demonstrate my capabilities to work with modern developer doc tools, I built, edited, versioned, and deployed a portfolio site in github. You can see it here LINK!!!!
+To further demonstrate my capabilities to work with modern developer doc tools, I built, edited, versioned, and deployed a portfolio site in github. You can see it <a href="https://lookatthem-tech.github.io/portfolio005/Content/Topics/HomePgG.htm" target="_blank">here</a>
 
 
 ### Sphinx site example
 
-I have a similar portfolio site that I built with sphinx. I'll be happy to show it to anyone who asks!
+I have a similar portfolio site that I built with sphinx. I haven't hosted this site anywhere yet. But I'll be happy to show it to anyone who asks!
 
 
 ### API course certificates
 
 Also, here are certificates for a few of the API courses that I've completed.
 
-ADD IMAGES!!
+<p><img src="APICert001.jpg" /></p>
+<p><img src="APICert002.jpg" /></p>
+<p><img src="APICert003.jpg" /></p>
 
 
 ### LinkedIn profile
