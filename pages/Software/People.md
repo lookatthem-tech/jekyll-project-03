@@ -42,15 +42,15 @@ folder: Software
 <li>Start Follow Me so that other users can follow a presentation, or stop Follow Me so that participants can collaborate interactively. For more information, see <a href="FollowMeMode.html">Follow Me Mode</a>.</li>
 </ul>
 
-p><b>Note:</b> In addition, you can <a href="AddingPeopleIphone.html">add members from the Prysm iPhone app</a>, but you cannot add guests.</p>
+<p><b>Note:</b> In addition, you can <a href="AddingPeopleIphone.html">add members from the Prysm iPhone app</a>, but you cannot add guests.</p>
 
 
 <h2>Using the project lobby</h2>
 
 <p>A project's lobby can include both guests and members.</p>
 <ul>
-<li>For guests in the lobby, any project member can click <b>Admit</b> or <b>Decline</b>, which allows or denies that guest temporary access to the project (see <a href="AddingAllPeople.html#AddingGuestsToProject">Guests</a>). </li>
-<>For members in the lobby, the project owner can click <b>Add</b> or <b>Decline</b>, which allows or denies that user to be a member in the project (see <a href="AddingAllPeople.html#AddingMembersToProject">Members</a>).</li>
+<li>For guests in the lobby, any project member can click <b>Admit</b> or <b>Decline</b>, which allows or denies that guest temporary access to the project (see <a href="AddingAllPeople.html#AddingGuestsToProject">Guests</a>).</li>
+<li>For members in the lobby, the project owner can click <b>Add</b> or <b>Decline</b>, which allows or denies that user to be a member in the project (see <a href="AddingAllPeople.html#AddingMembersToProject">Members</a>).</li>
 </ul>
 
 
