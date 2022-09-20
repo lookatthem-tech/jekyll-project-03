@@ -62,7 +62,7 @@ I'm a writer with many years of experience in creating content of all kinds. I'v
 
 <p><a href="https://www.linkedin.com/in/ryan-rader-43042910/" target="_blank">See my profile on LinkedIn.</a></p>
 
-<video autoplay="autoplay" loop="loop" width="500" >
+<video muted autoplay controls>
   <source src="/images/PFDSharingShort.mp4" type="video/mp4">
   
 </video>
