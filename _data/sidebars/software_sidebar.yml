@@ -9,15 +9,15 @@ entries:
 
   
 
-  - title: API and developer docs
+  - title: Software docs
     output: web
     folderitems:
     
-    - title: Introduction to developer docs
-      url: /DevDocsLanding.html
+    - title: Introduction to software docs
+      url: /SoftwareLanding.html
       output: web
-    - title: SMS Integration
-      url: /SmsIntegration.html
+    - title: People in Prysm
+      url: /People.html
       output: web
     - title: Error Logging
       url: /ErrorLogging.html

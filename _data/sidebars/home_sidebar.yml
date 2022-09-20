@@ -10,7 +10,7 @@ entries:
     output: web
     folderitems:
     
-    - title: Introduction to API and developer docs
+    - title: Introduction to developer docs
       url: /DevDocsLanding.html
       output: web
     - title: SMS Integration
