@@ -13,7 +13,7 @@ folder: Software
 
 <p>People in Prysm (sometimes referred to as Participants) are the people who have access to your project. People can be members or guests.</p>
 
-<p><b>Tip: </b></span></span></span>Up to 15 people can be in a project simultaneously, and up to 10 of those people can be guests.</p>
+<p><b>Tip:</b> Up to 15 people can be in a project simultaneously, and up to 10 of those people can be guests.</p>
 
 <h2>Members</h2>
 
@@ -39,10 +39,10 @@ folder: Software
 <li>See who is currently in your project.</li>
 <li>Add or remove <a href="AddingAllPeople.html#AddingMembersToProject">members</a> and <a href="AddingAllPeople.html#AddingGuestsToProject">guests</a>.</li>
 <li>Interact with the <a href="#Understa">project lobby</a>.</li>
-<li>Start Follow Me so that other users can follow a presentation, or stop Follow Me so that participants can collaborate interactively. For more information, see <a href="FollowMeMode.html" class="MCXref xref">Follow Me Mode</a>.</li>
+<li>Start Follow Me so that other users can follow a presentation, or stop Follow Me so that participants can collaborate interactively. For more information, see <a href="FollowMeMode.html">Follow Me Mode</a>.</li>
 </ul>
 
-p><b>Note: </b></span></span></span>In addition, you can <a href="AddingPeopleIphone.html">add members from the Prysm iPhone app</a>, but you cannot add guests.</p>
+p><b>Note:</b> In addition, you can <a href="AddingPeopleIphone.html">add members from the Prysm iPhone app</a>, but you cannot add guests.</p>
 
 
 <h2>Using the project lobby</h2>
