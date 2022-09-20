@@ -47,7 +47,6 @@ ADD IMAGES!!
 
 ### LinkedIn profile
 
-See my profile [LINK HERE!!!!] on LinkedIn.
-
+<p><a href="https://www.linkedin.com/in/ryan-rader-43042910/" target="_blank">See my profile on LinkedIn.</a></p>
 
 {% include links.html %}

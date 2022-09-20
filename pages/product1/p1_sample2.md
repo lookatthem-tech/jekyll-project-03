@@ -106,8 +106,7 @@ folder: product1
 <p>When using workflows, users can leverage Two-Way SMS functionality when it comes to approvals or rejections of actions within the particular workflow. This is configured in the same place as mentioned above (in the Generate Notifications step). You will want to apply this to the notifications step that comes before the Approval/Reject Manager step.</p>
 
 <p>As you click the SMS Enabled checkbox, you will see another option for Two Way SMS Enabled that will need to be checked.</p>
-<p><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../../../Resources/Images/SMSIntegrationTwilioUG/SMSIntegrationTwilio_8.png" data-mc-popup-alt="A picture containing graphical user interface&#xA;&#xA;Description automatically generated"><img class="MCPopupThumbnail img imgthumbnail" data-mc-width="1495" data-mc-height="441" src="../../../Resources/Images/SMSIntegrationTwilioUG/SMSIntegrationTwilio_8_thumb_0_48.png" alt="A picture containing graphical user interface&#xA;&#xA;Description automatically generated" tabindex="" /></a>
-</p>
+
 <p>As the SMS Message text space appears, configure your message using free text and tags as normal.</p>
 
 <p>When the workflow is triggered and the notification is sent, the manager will see the message as formatted by the user in configuration. This will immediately be followed by a canned set of instructions to explain how to advance the workflow: Please reply Y/N followed by this code &lt;code&gt; to Approve/Reject this request. The code is very important as this is a unique value tied to each request. As a manager, you could receive multiple requests for one workflow and the system needs to know which specific request is being approved or denied.</p>
