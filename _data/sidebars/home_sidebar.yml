@@ -28,8 +28,11 @@ entries:
     - title: Introduction to software docs
       url: /SoftwareLanding.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: People in Prysm
+      url: /People.html
+      output: web
+    - title: Collaborate with anyone
+      url: /CollaborateWithAnyone.html
       output: web
 
 

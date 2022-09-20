@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-US" xml:lang="en-US" class="_Skins_TopNavGreenFilters" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-has-content-body="True" data-mc-searchable="False" data-mc-toc-path="" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-US" xml:lang="en-US" class="_Skins_TopNavGreenFilters" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../" data-mc-has-content-body="True" data-mc-toc-path="[%=System.LinkedTitle%]" data-mc-conditions="UKGRConditionTags.WFR" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta charset="utf-8" /><title> Videos</title>
-        <link href="../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Default/Stylesheets/Components/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Default/Stylesheets/Components/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Fluid/Stylesheets/foundation.6.2.3.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Fluid/Stylesheets/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../../Skins/Fluid/Stylesheets/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../../Resources/Stylesheets/UKGMainStylesheet.css" rel="stylesheet" type="text/css" />
+        <meta charset="utf-8" /><title>Longer demo videos</title>
+        <link href="../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Default/Stylesheets/Components/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Fluid/Stylesheets/foundation.6.2.3.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Fluid/Stylesheets/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../../Skins/Fluid/Stylesheets/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../../Resources/Stylesheets/UKGMainStylesheet.css" rel="stylesheet" type="text/css" />
         <style>/*&lt;meta /&gt;*/
 
 .button.previous-topic-button
@@ -47,23 +47,24 @@
 
 .needs-pie
 {
-	behavior: url('../../../Resources/Scripts/PIE-no-motw.htc');
+	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
 }
 
 </style>
-        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        <link href="../../../Resources/TableStyles/UKGTableStylesheet01.css" rel="stylesheet" />
+        <script src="../../../../Resources/Scripts/jquery.min.js" type="text/javascript">
         </script>
-        <script src="../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
+        <script src="../../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
         </script>
-        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        <script src="../../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
         </script>
-        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        <script src="../../../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
         </script>
-        <script src="../../../Resources/Scripts/foundation.6.2.3_custom.js" type="text/javascript" defer="defer">
+        <script src="../../../../Resources/Scripts/foundation.6.2.3_custom.js" type="text/javascript" defer="defer">
         </script>
-        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        <script src="../../../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
         </script>
-        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        <script src="../../../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
         </script>
     </head><a name="TopOfPage"></a>
     <body>
@@ -90,7 +91,7 @@
                                 </div>
                             </div>
                             <div class="title-bar-layout outer-row">
-                                <div class="logo-wrapper"><a class="logo" href="../HomePgG.htm" alt="Logo"></a>
+                                <div class="logo-wrapper"><a class="logo" href="../../HomePgG.htm" alt="Logo"></a>
                                 </div>
                                 <div class="navigation-wrapper nocontent">
                                     <ul class="navigation clearfix" role="navigation" data-mc-css-tree-node-has-children="has-children" data-mc-css-sub-menu="sub-menu" data-mc-expand-event="mouseenter" data-mc-top-nav-menu="True" data-mc-max-depth="1" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
@@ -150,8 +151,8 @@
 		});/*]]>*/</script>
                                     <div class="rr-article-body">
                                         <div>
-                                            <div data-sticky-container="" id="OnDWDJCpfU2cxb7wfGS0ZA">
-                                                <div class="sticky sticky-menu" style="width:100%" data-sticky="" data-top-anchor="OnDWDJCpfU2cxb7wfGS0ZA:top" data-bottom-anchor="contentBody:bottom" data-sticky-on="small" data-scroll-container-on="small">
+                                            <div data-sticky-container="" id="wMnmd1rdWk2OdMvBkQoPsQ">
+                                                <div class="sticky sticky-menu" style="width:100%" data-sticky="" data-top-anchor="wMnmd1rdWk2OdMvBkQoPsQ:top" data-bottom-anchor="contentBody:bottom" data-sticky-on="small" data-scroll-container-on="small">
                                                     <ul class="nocontent menu _Skins_SideMenuFixed03 mc-component" data-mc-is-context-sensitive="True" data-mc-linked-toc="Data/Tocs/HTMLtocs__PortfolioSiteTOC.js" data-mc-side-menu="True" data-mc-max-depth="5" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
                                                     </ul>
                                                 </div>
@@ -196,11 +197,67 @@
                                                     </div>
                                                 </div>
                                                 <div role="main" id="mc-main-content">
-                                                    <h1>
-                                                        <img src="../../Resources/Assets/PFVideos.png" style="vertical-align: middle;width: 32px;" /> Videos<a name="aanchor31"></a><MadCap:concept term="Scheduler" /></h1>
-                                                    <p>This section contains examples of videos that I&#160;have made.</p>
-                                                    <div class="MCMiniTocBox_0 miniToc nocontent" data-mc-depth="1" data-mc-toc="True">
-                                                    </div>
+                                                    <h1>Longer demo videos<a name="aanchor22"></a><MadCap:concept term="Scheduler" /></h1>
+                                                    <p>I made these videos to demonstrate some slightly longer procedures and features.</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="VisuallyOrganizeSHContent.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="PrysmForSurfaceHubUsersAudience.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="PrysmForSurfaceHubITAudience.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="PFDSharingShort.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="PFDGrayedOutSharing.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="PasteSHContent.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="KeepWhiteboardsUHC.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p>
+                                                        <video style="width:400px; height: 225px" controls="" muted="" loop="" title="" class="_0">
+                                                            <source src="LocalBrowserDownloadFiles004.mp4" type="video/mp4">Your browser does not support the video tag.</source>
+                                                        </video>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/oan0sfqkn8" width="400" height="225"></iframe>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/wrbqd6wyrt" width="400" height="225"></iframe>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/327zz4bnub" width="400" height="225"></iframe>
+                                                    </p>
+                                                    <p>&#160;</p>
+                                                    <p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/doitcshtog" width="400" height="225"></iframe>
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>

@@ -1,0 +1,31 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: 
+  version: 
+  folders:
+
+  
+
+  - title: Videos
+    output: web
+    folderitems:
+    
+    - title: Introduction to videos
+      url: /VidsLanding.html
+      output: web
+    - title: Short videos
+      url: /ShortVids.html
+      output: web
+    - title: Longer videos
+      url: /LongerVids.html
+      output: web
+    - title: Marketing videos
+      url: /MktgVids.html
+      output: web
+
+  
+
+
