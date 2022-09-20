@@ -3,17 +3,6 @@
 
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: 
-  folders:
-    
-    - title: 
-      folderitems:
-        - title: 
-          url: 
-        - title: 
-          url: 
-        - title: 
-          url: 
+
 
 # Copyright 2021 Google LLC
