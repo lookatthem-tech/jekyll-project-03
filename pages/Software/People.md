@@ -15,7 +15,7 @@ folder: Software
 
 <p><b>Tip:</b> Up to 15 people can be in a project simultaneously, and up to 10 of those people can be guests.</p>
 
-<h2>Members</h2>
+## Members
 
 <p>Members are people on the same Prysm account as you. For example, if you work for Acme Corporation, and you want to invite a collaborator who also works for Acme Corporation, this collaborator will be a member in your project.</p>
 
