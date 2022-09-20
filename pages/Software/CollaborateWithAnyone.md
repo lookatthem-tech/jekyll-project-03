@@ -22,7 +22,7 @@ folder: Software
 
 <p><img src="Collab001.png" style="width: 250px;" /></p>
 
-{% include image.html file="Collab001.png"  caption="This is a sample caption" %}
+{% include image.html file="Collab001.png"  max-width="300" %}
 
 
 
