@@ -9,10 +9,10 @@ entries:
 
   
 
-  - title: Getting Started
+  - title: Developer docs
     output: web, pdf
     folderitems:
-    - title: Product 1 home
+    - title: Developer docs
       url: /DevDocsLanding.html
       output: web
 
