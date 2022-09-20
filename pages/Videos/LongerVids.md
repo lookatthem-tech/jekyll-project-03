@@ -8,14 +8,15 @@ folder: Videos
 ---
 
 
-
+<html><body>
 
 
 <p>I made these videos to demonstrate some slightly longer procedures and features.</p>
 
 
-<p><iframe allowtransparency="true" allowFullscreen="0" scrolling="no" src="VisuallyOrganizeSHContent.mp4" type="video/mp4" width="400" height="225"></iframe>
-
+<p><video title="" loop="loop" muted="" controls="controls" width="300" height="150">
+<source src="VisuallyOrganizeSHContent.mp4" type="video/mp4" />Your browser does not support the video tag.
+</video></p>
 
 
 <p><video title="" loop="loop" muted="" controls="controls" width="300" height="150">
@@ -64,3 +65,5 @@ folder: Videos
 <p>&#160;</p>
 <p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/doitcshtog" width="400" height="225"></iframe>
 </p>
+
+</body></html>
