@@ -1182,6 +1182,9 @@ h4.panel-title {
     }
     .navbar-left,.navbar-right {
         float: none !important;
+        margin-top: auto;
+        margin-bottom: auto;
+
     }
     .navbar-toggle {
         display: block;
