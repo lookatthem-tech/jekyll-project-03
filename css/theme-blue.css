@@ -18,7 +18,8 @@ h4 {color: #0d3e5b; }
 }
 
 .nav > li.active > a {
-    background-color: #347DBE;
+    background-color: #a6f6ff;
+    color: black;
 }
 
 .nav > li > a:hover {
@@ -104,7 +105,7 @@ body.print h4 {color: #679DCE !important; font-size:14px; font-style: italic !im
 }
 
 div.sidebarTitle {
-    color: #015CAE;
+    color: #e3ebee;
 }
 
 li.sidebarTitle {
