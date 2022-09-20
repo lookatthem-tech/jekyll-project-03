@@ -1,7 +1,7 @@
 ---
 title: Videos
 
-sidebar: video_sidebar
+sidebar: videos_sidebar
 toc: false
 permalink: VidsLanding.html
 folder: Videos
