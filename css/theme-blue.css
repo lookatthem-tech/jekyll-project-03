@@ -46,7 +46,7 @@ a[data-toggle="tooltip"] {
     border-color: #0D3E5B;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
-    color: white;
+    color: #a6f6ff;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
