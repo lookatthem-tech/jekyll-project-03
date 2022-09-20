@@ -14,7 +14,7 @@ folder: Videos
 <p>I made these videos to demonstrate some slightly longer procedures and features.</p>
 
 
-
+{% video file="VisuallyOrganizeSHContent.mp4" 500  %}
 
 
 {% include image.html file="VisuallyOrganizeSHContent.mp4"  max-width="500" %}
