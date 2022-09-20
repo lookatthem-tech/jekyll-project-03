@@ -55,4 +55,4 @@ Also, here are certificates for a few of the API courses that I've completed.
 
 <p><a href="https://www.linkedin.com/in/ryan-rader-43042910/" target="_blank">See my profile on LinkedIn.</a></p>
 
-{% include links.html %}
+
