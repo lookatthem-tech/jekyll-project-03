@@ -6,7 +6,7 @@ sidebar: software_sidebar
 permalink: People.html
 folder: Software
 ---
-<html><body>
+
 
 
 
@@ -53,6 +53,3 @@ folder: Software
 <li>For members in the lobby, the project owner can click <b>Add</b> or <b>Decline</b>, which allows or denies that user to be a member in the project (see <a href="AddingAllPeople.html#AddingMembersToProject">Members</a>).</li>
 </ul>
 
-
-</body>
-</html>
