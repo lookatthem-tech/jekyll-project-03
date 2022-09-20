@@ -248,7 +248,7 @@ div#toc ul li {
     list-style: square;
 }
 div#toc ul {
-    background-color: gray;
+    background-color: red;
     padding: 5px;
     border-radius: 5px;
     max-width: 300px;
