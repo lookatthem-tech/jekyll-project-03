@@ -4,7 +4,7 @@ title: Error Logging in Prysm for Desktop
 
 sidebar: product1_sidebar
 permalink: ErrorLogging.html
-folder: product1
+folder: ApiDev
 ---
 <html><body>
 				   

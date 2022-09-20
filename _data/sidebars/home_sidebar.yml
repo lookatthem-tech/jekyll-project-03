@@ -5,19 +5,9 @@ entries:
   levels: one
   folders:
 
-  - title: About me
-    output: web
-    folderitems:
-    
-    - title: Product 1
-      url: /DevDocsLanding.html
-      output: web
-    - title: Product 2
-      url: /p2_landing_page.html
-      output: web
-
-
+  
   - title: API and developer docs
+    url: /DevDocsLanding.html
     output: web
     folderitems:
     
