@@ -620,7 +620,7 @@ li img {clear:both; }
 
 div#toc  {
     background-color: #b7c8db;
-    
+    width: 333px;
 }
 
 div#toc ul li ul li {
