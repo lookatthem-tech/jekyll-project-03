@@ -14,7 +14,7 @@ folder: Videos
 <p>I made these videos to demonstrate some slightly longer procedures and features.</p>
 
 
-<p><iframe allowtransparency="true" allowFullscreen="0" scrolling="no" src="VisuallyOrganizeSHContent.mp4" width="400" height="225"></iframe>
+<p><iframe allowtransparency="true" allowFullscreen="0" scrolling="no" src="VisuallyOrganizeSHContent.mp4" type="video/mp4" width="400" height="225"></iframe>
 
 
 
