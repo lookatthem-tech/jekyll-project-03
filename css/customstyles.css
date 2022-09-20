@@ -1201,7 +1201,9 @@ h4.panel-title {
     }
     .navbar-nav {
         float: none!important;
-        margin-top: 7.5px;
+        margin-top: auto;
+        margin-bottom: auto;
+
     }
     .navbar-nav>li {
         float: none;
