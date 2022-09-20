@@ -36,17 +36,23 @@ entries:
       output: web
 
 
-  - title: Videos
+  
+ - title: Videos
     output: web
     folderitems:
     
-    - title: Product 1
-      url: /DevDocsLanding.html
+    - title: Introduction to videos
+      url: /VidsLanding.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Short videos
+      url: /ShortVids.html
+      output: web
+    - title: Longer videos
+      url: /LongerVids.html
+      output: web
+    - title: Marketing videos
+      url: /MktgVids.html
       output: web
 
 
 
-# Copyright 2021 Google LLC
