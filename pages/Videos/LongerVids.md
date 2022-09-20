@@ -14,13 +14,10 @@ folder: Videos
 <p>I made these videos to demonstrate some slightly longer procedures and features.</p>
 
 
-{% video VisuallyOrganizeSHContent.mp4 500  %}
+<video width="50%" preload="auto" muted controls>
+    <source src="VisuallyOrganizeSHContent.mp4" type="video/mp4"/>
+</video>
 
-
-{% video url/to/video [width height] [url/to/poster] %}
-
-
-{% include image.html file="VisuallyOrganizeSHContent.mp4"  max-width="500" %}
 
 
 <p><video title="" loop="loop" muted="" controls="controls" width="300" height="150">
