@@ -23,9 +23,9 @@ The site you're viewing right now is an example of what I can build with jekyll.
 
 I have created a lot of documentation for developers over the years. I have also taken several courses about how to create API docs.
 
-To demonstrate, I created an API documentation site on github that uses data from an open source weather API. I built the site with the highly respected and most commonly used specification: OpenAPI (formerly known as Swagger). I'm very experienced with CSS, so I can style sites like this to fit any branding and format that a company needs. Click the following image to open the site.
+To demonstrate, I created an API documentation site on github that uses data from an open source weather API. I built the site with the highly respected and most commonly used specification: OpenAPI (formerly known as Swagger). I'm very experienced with CSS, so I can style sites like this to fit any branding and format that a company needs. You can see this site <a href="https://lookatthem-tech.github.io/open-api-example/" target="_blank">here</a>.
 
-ADD IMAGE HERE
+
 
 
 ### Github site example
@@ -42,9 +42,9 @@ I have a similar portfolio site that I built with sphinx. I haven't hosted this 
 
 Also, here are certificates for a few of the API courses that I've completed.
 
-<p><img src="APICert001.jpg" /></p>
-<p><img src="APICert002.jpg" /></p>
-<p><img src="APICert003.jpg" /></p>
+<p><img src="APICert001.jpg" style="width: 200px;"/></p>
+<p><img src="APICert002.jpg" style="width: 200px;"/></p>
+<p><img src="APICert003.jpg" style="width: 200px;"/></p>
 
 
 ### LinkedIn profile
