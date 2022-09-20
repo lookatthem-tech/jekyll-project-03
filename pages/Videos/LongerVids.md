@@ -13,9 +13,9 @@ folder: Videos
 
 <p>I made these videos to demonstrate some slightly longer procedures and features.</p>
 
-<p><video title="" loop="loop" muted="" controls="controls" width="300" height="150">
-<source src="VisuallyOrganizeSHContent.mp4" type="video/mp4" />Your browser does not support the video tag.
-</video></p>
+
+<p><iframe allowtransparency="true" allowFullscreen="0" scrolling="no" src="VisuallyOrganizeSHContent.mp4" width="400" height="225"></iframe>
+
 
 
 <p><video title="" loop="loop" muted="" controls="controls" width="300" height="150">
