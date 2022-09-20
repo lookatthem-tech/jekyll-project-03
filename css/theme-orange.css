@@ -9,8 +9,8 @@ h3 {color: #D2386C; }
 h4 {color: #926AA6; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    background-color: #E9897E;
-    color: white;
+    background-color: red;
+    color: green;
 }
 
 .nav > li.active > a {
