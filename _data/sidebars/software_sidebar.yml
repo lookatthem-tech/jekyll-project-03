@@ -19,8 +19,8 @@ entries:
     - title: People in Prysm
       url: /People.html
       output: web
-    - title: Error Logging
-      url: /ErrorLogging.html
+    - title: Collaborate with anyone
+      url: /CollaborateWithAnyone.html
       output: web
 
   
