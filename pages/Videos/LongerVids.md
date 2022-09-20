@@ -16,7 +16,7 @@ folder: Videos
 
 
 <video muted autoplay controls>
-    <source src="VisuallyOrganizeSHContent.mp4" type="video/mp4">
+    <source src="/VisuallyOrganizeSHContent.mp4" type="video/mp4">
 </video>
 
 
