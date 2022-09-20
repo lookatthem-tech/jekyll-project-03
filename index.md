@@ -46,9 +46,9 @@ I have a similar portfolio site that I built with sphinx to demonstrate what I c
 
 Also, here are certificates for a few of the API courses that I've completed.
 
-<p><img src="APICert001.jpg" style="width: 200px;"/></p>
-<p><img src="APICert002.jpg" style="width: 200px;"/></p>
-<p><img src="APICert003.jpg" style="width: 200px;"/></p>
+<p><img src="APICert001.jpg" style="width: 250px;"/></p>
+<p><img src="APICert002.jpg" style="width: 250px;"/></p>
+<p><img src="APICert003.jpg" style="width: 250px;"/></p>
 
 
 ### LinkedIn profile
