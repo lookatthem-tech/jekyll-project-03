@@ -567,7 +567,7 @@ hr.shaded {
     margin-top: 70px;
     background: #0d3e5b;
     width: 100%;
-    margin-bottom: 0px;
+    margin-bottom: -20px;
 }
 
 .fa-6x{font-size:900%;}
