@@ -367,7 +367,7 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .nav a:hover, .nav li.active > a {
-    background-color: orange;
+    background-color: #337ab7;
     color: white;
 }
 
