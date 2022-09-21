@@ -406,7 +406,8 @@ ul#mysidebar {
 
 
 .nav ul li a {
-    background-color: #FAFAFA;
+    background-color: white;
+    color: black;
 }
 
 .nav li a {
@@ -414,7 +415,7 @@ ul#mysidebar {
 }
 
 .nav li a:hover {
-    background-color: lime;
+    background-color: #337ab7;
 }
 
 .nav ul li a {
