@@ -372,7 +372,7 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .nav > li.active > a  {
-background-color: #6C244C;
+background-color: green;
 }
 
 .nav li a {
