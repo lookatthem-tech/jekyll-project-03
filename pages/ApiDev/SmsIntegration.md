@@ -43,9 +43,9 @@ folder: ApiDev
 <p>You must set up an account with Twilio prior to using this functionality with Workforce Ready. We have provided links under the <b>Pricing</b> tab of the Marketplace product to help you contact them, view Twilio pricing structures, and other Twilio support information.</p>
 
 
-<h1>Requirements and Prerequisites</h1>
+<h2>Requirements and Prerequisites</h2>
 <p>To take advantage of SMS functionality, you must complete a few steps prior to using it. First, you must add the <b>SMS Integration with Twilio</b> marketplace product. Once added, there are a few housekeeping steps to complete in your company. Once that is done you will then be able to select SMS options within company notifications.</p>
-<h2>Download the Marketplace Product</h2>
+<h3>Download the Marketplace Product</h3>
 <p>To add the marketplace product, navigate to <b>Marketplace &gt; Marketplace Setup</b> and add the <b>SMS Integration with Twilio</b> marketplace product to the company.</p>
 
 	
@@ -80,7 +80,7 @@ folder: ApiDev
 		<p>Input the Twilio <b>Account SID</b>, <b>Authentication Token</b>, and <b>Messaging Service SID</b> into the appropriate fields.</p>
 	</li>
 </ul>
-<h2>Global Setup</h2>
+<h3>Global Setup</h3>
 <p>Once your marketplace product is installed and completed, you will then need to edit a few settings in your company.</p>
 <p>Enable SMS notifications globally. Multiple options are available. After selecting an option here, SMS fields will then become available in the application. Skipping this step will result in no SMS settings being available. Optionally, you can configure a custom SMS Header that will be appended to the front of each SMS notification.</p>
 <p>Navigate to the <b>Company Configuration</b> widget under the <b>Company Info</b> tab, located under <b>Company Settings &gt; Global Setup &gt; Company Setup</b>, and select an SMS option in the <b>Notifications Through</b> field.</p>
@@ -100,17 +100,17 @@ folder: ApiDev
 
 
 
-<h1>Configuring Communications with SMS</h1>
+<h2>Configuring Communications with SMS</h2>
 <p>You can configure the system to use SMS&#160;in notifications, workflows, and recruitment.</p>
-<h2>SMS in Notifications</h2>
+<h3>SMS in Notifications</h3>
 <p>Once your company has been edited to enable SMS messaging fields, you can then begin using SMS messages in notifications. Notifications are configured under <b>Company Settings &gt; Global Setup &gt; Notifications</b>.</p>
 <p>Depending what was selected in <b>Company Setup</b> will determine the fields available in notifications. The <b>SMS Message</b> will be disabled by default. Check the <b>Enabled</b> checkbox to activate the message options. Once enabled, you can then type a customized message and use the system tags to create a message. The messages have a 1400-character limit.</p>
 
 
-<h2>SMS in Workflows</h2>
+<h3>SMS in Workflows</h3>
 <p>SMS notifications can also be added to the <b>Generate Notification</b> step in workflows. This will generate a SMS message to the designated recipient when the workflow proceeds to the <b>Generate Notification</b> step. Workflows are located under <b>Company Settings &gt; Global Setup &gt; Workflows</b>. The <b>SMS Enabled</b> checkbox will be unchecked by default. Check to activate the SMS messaging options.</p>
 
-<h2>Two-Way SMS in Workflows</h2>
+<h3>Two-Way SMS in Workflows</h3>
 <p>When using workflows, users can leverage Two-Way SMS functionality when it comes to approvals or rejections of actions within the particular workflow. This is configured in the same place as mentioned above (in the Generate Notifications step). You will want to apply this to the notifications step that comes before the Approval/Reject Manager step.</p>
 
 <p>As you click the SMS Enabled checkbox, you will see another option for Two Way SMS Enabled that will need to be checked.</p>
@@ -120,7 +120,7 @@ folder: ApiDev
 <p>When the workflow is triggered and the notification is sent, the manager will see the message as formatted by the user in configuration. This will immediately be followed by a canned set of instructions to explain how to advance the workflow: Please reply Y/N followed by this code &lt;code&gt; to Approve/Reject this request. The code is very important as this is a unique value tied to each request. As a manager, you could receive multiple requests for one workflow and the system needs to know which specific request is being approved or denied.</p>
 
 <p>There is error proofing built into this process as well. If an incorrect code is entered, the system will let you know (similarly if you enter the same code twice).</p>
-<h2>Two-Way SMS Workflows: Required Comment</h2>
+<h3>Two-Way SMS Workflows: Required Comment</h3>
 <p>You can configure a Workflow to allow for a SMS response to Approve or Reject, plus any required Comment, so that users can Approve/Reject a Workflow that includes a Comment and submit it via SMS. When the Workflows listed below are sent through SMS Two-Way, the user is notified that a Comment is required in addition to their Approve/Reject and unique code.</p>
 <ul>
 	<li>
@@ -148,16 +148,16 @@ folder: ApiDev
 		<p>Compensation Proposal Request</p>
 	</li>
 </ul>
-<h2>SMS in Recruitment</h2>
+<h3>SMS in Recruitment</h3>
 <p>If you are using the Recruitment marketplace product, SMS communication can be configured in communication templates. This will allow managers, hiring managers, and HR professionals to communicate with applicants via SMS messaging.</p>
-<h2>Communication Templates</h2>
+<h3>Communication Templates</h3>
 <p>Communication Templates can be selected by the manager or HR professional when communicating with an applicant. The communication templates are located at <b>Company Settings &gt; HR Setup &gt; Applicant Tracking/Recruitment &gt; Templates Library &gt;&#160;Communication Templates</b>. The <b>SMS Enabled</b> checkbox will be unchecked by default. Check to activate the SMS messaging options.</p>
 
 	
 {% include tip.html content="Make sure to check the Active checkbox in the notification to make it available." %}	
 	
 
-<h2>Communications with Applicants</h2>
+<h3>Communications with Applicants</h3>
 <p>When managers or HR professionals choose to communicate with an applicant, they can choose one of the preconfigured communication templates or create a customized message. Managers can communicate with applicants in the following areas:</p>
 <ul>
 	<li>
@@ -175,11 +175,11 @@ folder: ApiDev
 </ul>
 <p>In both areas, users will select one or more applicants or job applications and select the <b>Communicate To Selected</b> button. In the pop-up, you can select a communication template from the <b>Template To Use</b> icon. When selecting a template, it will populate the Email area (if enabled at the company level), and the SMS area with content from the template. Users can edit as needed.</p>
 <p>If not using a template, users can create their own customized messages and use system tags to complete the message.</p>
-<h2>Applicants and Job Applications</h2>
+<h3>Applicants and Job Applications</h3>
 <p>After selecting one or more entries and clicking the <b>Communicate To Selected</b> button, the pop-ups will allow you select a template, create customized messages, or turn off/on certain communication methods.</p>
 
 
-<h2>Job Requisitions and Applicant Information</h2>
+<h3>Job Requisitions and Applicant Information</h3>
 <p>When opening a Job Requisition for viewing or editing, an option is available to <b>Notify Applicant</b> which is a manual method of encouraging an applicant to apply for the job. After selecting the option and adding an applicant, a communication pop-up will display where you can craft a communication to the applicant. You can select a communication template or create a customized message. The options available here will depend on what was selected on the <b>Company Setup</b> page (Email, SMS, etc.).</p>
 <p>Job Requisitions are located under <MadCap:conditionalText data-mc-conditions="UKGRConditionTags.WFR"><b>Team &gt; </b></MadCap:conditionalText><b>Recruitment &gt; Job Requisitions</b>.</p>
 
