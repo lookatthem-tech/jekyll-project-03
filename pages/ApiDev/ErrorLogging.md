@@ -6,7 +6,7 @@ sidebar: developer_sidebar
 permalink: ErrorLogging.html
 folder: ApiDev
 ---
-<html><body>
+
 				   
 			
 <p>Prysm for desktop includes error logging. You can open the logs to troubleshoot issues you might experience with the app.</p>
@@ -53,7 +53,8 @@ PrysmInc.Prysm_gcnfe4jvxweze\LocalState\UserConfig.xml</code><br />
 	
 <code>C:\Users\&lt;Username&gt;\AppData\Local\Packages\<br />
 PrysmInc.PrysmSharingExtension_gcnfe4jvxweze\<br />
-LocalState\UserConfig.xml</code></li>
+LocalState\UserConfig.xml</code>
+</li>
 
 	
 <li>Open <b>UserConfig.xml</b> (in Notepad or your preferred text editor).<br />
@@ -73,7 +74,8 @@ The contents of the file look similar to the following:<br /><br />
 	
 <code>&lt;add key="AppInsightsLogLevel" value="Warning"&gt;</code>
 	
-<p>You can set this Application Insights log level value to a different value than you set for LogFileLogLevel to configure different levels of logging for Application Insights and for the log file on the device.</p></li>
+<p>You can set this Application Insights log level value to a different value than you set for LogFileLogLevel to configure different levels of logging for Application Insights and for the log file on the device.</p>
+</li>
 	
 <li>If you need to change the preconfigured level of logging, change the values to other standard debugging level values, such as:
 
@@ -89,5 +91,5 @@ The contents of the file look similar to the following:<br /><br />
 <li><b>Save</b> and <b>close</b> the UserConfig.xml file.</li>
 </ol>
 
-</body></html>
+
 				
