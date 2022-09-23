@@ -50,7 +50,7 @@ folder: ApiDev
 
 	
 	
-	{% include note.html content="The marketplace product contains links and information to Twilio. You must create a Twilio account and gather information from them before you can complete the final installation of the product." %}
+	{% include tip.html content="The marketplace product contains links and information to Twilio. You must create a Twilio account and gather information from them before you can complete the final installation of the product." %}
 	
 	
 	
@@ -154,7 +154,7 @@ folder: ApiDev
 <p>Communication Templates can be selected by the manager or HR professional when communicating with an applicant. The communication templates are located at <b>Company Settings &gt; HR Setup &gt; Applicant Tracking/Recruitment &gt; Templates Library &gt;&#160;Communication Templates</b>. The <b>SMS Enabled</b> checkbox will be unchecked by default. Check to activate the SMS messaging options.</p>
 
 	
-{% include note.html content="Make sure to check the Active checkbox in the notification to make it available." %}	
+{% include tip.html content="Make sure to check the Active checkbox in the notification to make it available." %}	
 	
 
 <h2>Communications with Applicants</h2>
