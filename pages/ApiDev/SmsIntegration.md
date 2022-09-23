@@ -178,8 +178,6 @@ folder: ApiDev
 
 
 <p>In the pop-ups, you will have the option to turn off or on each area of communication via the slider bubble.</p>
-<p><b>On</b>
-</p>
 
 <p><b>Off:</b> The content will remain, but will be grayed out.</p>
 
