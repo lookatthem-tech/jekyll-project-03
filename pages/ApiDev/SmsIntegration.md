@@ -47,7 +47,13 @@ folder: ApiDev
 <p>To take advantage of SMS functionality, you must complete a few steps prior to using it. First, you must add the <b>SMS Integration with Twilio</b> marketplace product. Once added, there are a few housekeeping steps to complete in your company. Once that is done you will then be able to select SMS options within company notifications.</p>
 <h2>Download the Marketplace Product</h2>
 <p>To add the marketplace product, navigate to <b>Marketplace &gt; Marketplace Setup</b> and add the <b>SMS Integration with Twilio</b> marketplace product to the company.</p>
-<p><b>Note:</b> The marketplace product contains links and information to Twilio. You must create a Twilio account and gather information from them before you can complete the final installation of the product.</p>
+
+	
+	
+	{% include note.html content="The marketplace product contains links and information to Twilio. You must create a Twilio account and gather information from them before you can complete the final installation of the product." %}
+	
+	
+	
 <ul>
 	<li>
 		<p>From the <b>Home</b> or <b>Search/Browse</b> tab, locate and click the <b>SMS Integration with Twilio </b>product hyperlink.</p>
@@ -87,7 +93,9 @@ folder: ApiDev
 
 <p>Broadcast Messaging can be turned off by unchecking the related boxes for Broadcast Email, Broadcast Mailbox, and Broadcast Message SMS. Unchecking these has no effect on the options under them for Primary Email, Mailbox, and SMS. If&#160;Primary Email, Mailbox or SMS are disabled, the corresponding Broadcast Messaging option is disabled as well.</p>
 
-<div class="Note" ><b>Note:</b> To comply with Twilio and industry standards, end users will be able to reply with STOP, CANCEL, etc. to any SMS notification. If they do, notification preferences will be updated in the application to disable SMS. Notification preference changes can be audited in the Account Audit Trail report as well.</div>
+
+	
+{% include note.html content="To comply with Twilio and industry standards, end users will be able to reply with STOP, CANCEL, etc. to any SMS notification. If they do, notification preferences will be updated in the application to disable SMS. Notification preference changes can be audited in the Account Audit Trail report as well." %}	
 
 
 
@@ -144,7 +152,10 @@ folder: ApiDev
 <p>If you are using the Recruitment marketplace product, SMS communication can be configured in communication templates. This will allow managers, hiring managers, and HR professionals to communicate with applicants via SMS messaging.</p>
 <h3>Communication Templates</h3>
 <p>Communication Templates can be selected by the manager or HR professional when communicating with an applicant. The communication templates are located at <b>Company Settings &gt; HR Setup &gt; Applicant Tracking/Recruitment &gt; Templates Library &gt;&#160;Communication Templates</b>. The <b>SMS Enabled</b> checkbox will be unchecked by default. Check to activate the SMS messaging options.</p>
-<p><b>Tip:</b> Make sure to check the Active checkbox in the notification to make it available.</p>
+
+	
+{% include note.html content="Make sure to check the Active checkbox in the notification to make it available." %}	
+	
 
 <h3>Communications with Applicants</h3>
 <p>When managers or HR professionals choose to communicate with an applicant, they can choose one of the preconfigured communication templates or create a customized message. Managers can communicate with applicants in the following areas:</p>
@@ -181,9 +192,9 @@ folder: ApiDev
 
 <p><b>Off:</b> The content will remain, but will be grayed out.</p>
 
-<p><b>Tip: </b>If iCalendar Attachment is enabled within any of these areas, an iCalendar attachment will be delivered with the notification in the form of an MMS message.</p>
 
 
+{% include note.html content="If iCalendar Attachment is enabled within any of these areas, an iCalendar attachment will be delivered with the notification in the form of an MMS message." %}
 
 
 </body></html>                                                   
