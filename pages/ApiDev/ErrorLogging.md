@@ -38,12 +38,10 @@ PrysmInc.PrysmSharingExtension_gcnfe4jvxweze\LocalState\logs</code></p></li>
 
 	
 <h1>Configuring Logging</h1>
-	
-	
+
 <p>Prysm recommends using the preconfigured logging settings. If you find that those aren't working for you, you can locate and edit the configuration .xml file to change the configuration:</p>
 
 <ol>
-
 <li>On the device where Prysm for desktop is installed, navigate to:<br /><br />
 	
 <code>C:\Users\&lt;Username&gt;\AppData\Local\Packages\<br />
@@ -55,11 +53,10 @@ PrysmInc.Prysm_gcnfe4jvxweze\LocalState\UserConfig.xml</code>
 PrysmInc.PrysmSharingExtension_gcnfe4jvxweze\<br />
 LocalState\UserConfig.xml</code>
 </li>
-
 	
 <li>Open <b>UserConfig.xml</b> (in Notepad or your preferred text editor).<br />
 	
-The contents of the file look similar to the following:<br /><br />
+<p>The contents of the file look similar to the following:</p>
 	
 <code>&lt;?xml version="1.0" encoding="utf-8" ?&gt;<br />
 &lt;configuration&gt;<br />
@@ -70,7 +67,7 @@ The contents of the file look similar to the following:<br /><br />
 &lt;/appSettings&gt;<br />
 &lt;/configuration&gt;</code>
 	
-<p>The following line of the file is relevant only if you use Microsoft Azure Application Insights:<br /><br />
+<p>The following line of the file is relevant only if you use Microsoft Azure Application Insights:</p>
 	
 <code>&lt;add key="AppInsightsLogLevel" value="Warning"&gt;</code>
 	
