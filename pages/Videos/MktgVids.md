@@ -23,7 +23,7 @@ folder: Videos
 
 <p><video style="width:400px; height: 225px" controls="" muted="" title="" class="_0">
 <source src="ChanneltivityVideo001.mp4" type="video/mp4">Your browser does not support the video tag.</source>
-</video>
+</video></p>
                                             
 
 
