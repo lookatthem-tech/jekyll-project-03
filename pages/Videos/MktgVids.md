@@ -19,12 +19,7 @@ folder: Videos
 
 <p><iframe allowtransparency="true" title="Wistia video player" allowFullscreen="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/aa28bh7pju" width="400" height="225"></iframe></p>
 
-<p></p>
-
-<p><video style="width:400px; height: 225px" controls="" muted="" title="" class="_0">
-<source src="ChanneltivityVideo001.mp4" type="video/mp4">Your browser does not support the video tag.</source>
-</video></p>
-                                            
+                       
 
 
 
