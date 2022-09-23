@@ -12,7 +12,7 @@ folder: ApiDev
 
 <p>Both the main Prysm for desktop app and its companion Prysm Sharing Agent app include this error logging. The following sections include the details for both apps.</p>
 
-<h1>Opening Log Files</h1>
+<h2>Opening Log Files</h2>
 	
 <p>To open log files for troubleshooting, you locate and open the logs in the Logs folder:</p>
 
@@ -38,7 +38,7 @@ PrysmInc.PrysmSharingExtension_gcnfe4jvxweze\LocalState\logs</code>
 </ol>
 
 	
-<h1>Configuring Logging</h1>
+<h2>Configuring Logging</h2>
 
 <p>Prysm recommends using the preconfigured logging settings. If you find that those aren't working for you, you can locate and edit the configuration .xml file to change the configuration:</p>
 
@@ -87,7 +87,4 @@ LocalState\UserConfig.xml</code>
 <li>Off</li>
 </ul></li>
 <li><b>Save</b> and <b>close</b> the UserConfig.xml file.</li>
-</ol>
-
-
-				
+</ol>		
