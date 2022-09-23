@@ -47,7 +47,7 @@ PrysmInc.PrysmSharingExtension_gcnfe4jvxweze\LocalState\logs</code></p></li>
 <li>On the device where Prysm for desktop is installed, navigate to:<br /><br />
 	
 <code>C:\Users\&lt;Username&gt;\AppData\Local\Packages\<br />
-PrysmInc.Prysm_gcnfe4jvxweze\LocalState\UserConfig.xml</code><br />
+PrysmInc.Prysm_gcnfe4jvxweze\LocalState\UserConfig.xml</code>
 	
 <p>If you're configuring logging for Prysm Sharing Agent, on the device where it's installed, navigate to:<br /><br />
 	
