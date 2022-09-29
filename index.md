@@ -9,7 +9,7 @@ permalink: index.html
 
 
 
-Welcome! This is a portfolio created by Ryan Rader
+Welcome! This is a portfolio created by Ryan Rader.
 
 Please browse around to see examples of things I've done.
 
